@@ -30,13 +30,13 @@
 3. Compile the Java source files:
 
     ```bash
-    javac -cp .:lib/jl1.0.1.jar src/*.java
+    javac Main.java
     ```
 
 4. Run the application:
 
     ```bash
-    java -cp .:lib/jl1.0.1.jar src.AudioPlayer
+    java Main
     ```
 
 ## Usage
